@@ -1,0 +1,12 @@
+0= 空き時間
+1= 仮の予定
+2= ビジー
+3= 外出中
+// 4= 別の場所で作業
+
+
+0= free
+1= tentative
+2= busy
+3= out of office
+// 4= working elsewhere
